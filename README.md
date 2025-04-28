@@ -4,7 +4,7 @@ This project builds a logistic regression model to predict the diagnosis of a me
 
 ## Project Link 🔗
 
-You can access the project and its source code here: [Project Link](#)
+You can access the project and its source code here: https://cancerpredictionlogisticregressionmanunjay-m3xry3cgc6ns3nem82f.streamlit.app
 
 ## Features 🌟
 
